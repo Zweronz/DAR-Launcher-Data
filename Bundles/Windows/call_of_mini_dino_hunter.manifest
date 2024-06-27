@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1291302478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 018f75059dd87466001d4efe9181c861
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 018f75059dd87466001d4efe9181c861
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Source/COM Dino Hunter/Background.png
+- Assets/Bundles/Source/COM Dino Hunter/Icon.jpg
+- Assets/Bundles/Source/COM Dino Hunter/BGM.mp3
+Dependencies: []
