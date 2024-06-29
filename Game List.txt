@@ -1,14 +1,14 @@
-call_of_mini_zombies_3_0:name=Call of Mini\nZombies 3.0,repo=MAKE_THE_REPO,font=037-CAI978
-call_of_mini_zombies_4_3_4:name=Call of Mini\nZombies 4.3.4,repo=COMZ-Offline,font=037-CAI978,overrideBundle=call_of_mini_zombies_3_0
-call_of_mini_sniper:name=Call of Mini\nSniper,repo=Call-Of-Mini-Last-Stand-Source-Code,font=037-CAI978
-call_of_mini_double_shot:name=Call of Mini\nDouble Shot,repo=Call-Of-Mini-Double-Shot-Ultimate,font=037-CAI978
-call_of_mini_brawlers:name=Call of Mini\nBrawlers,repo=Call-Of-Mini-Brawlers-Source,font=Lithos Pro Black
-call_of_mini_zombies_2:name=Call of Mini\nZombies 2,repo=COMZ2-Offline,font=Watford-Regular
-call_of_mini_dino_hunter:name=Call of Mini\nDino Hunter,repo=COM-Dino-Hunter,font=D3STONISM
+call_of_mini_zombies_3_0:name=Call of Mini Zombies 3.0,repo=MAKE_THE_REPO,font=037-CAI978
+call_of_mini_zombies_4_3_4:name=Call of Mini Zombies 4.3.4,repo=COMZ-Offline,font=037-CAI978,overrideBundle=call_of_mini_zombies_3_0
+call_of_mini_sniper:name=Call of Mini Sniper,repo=Call-Of-Mini-Last-Stand-Source-Code,font=037-CAI978
+call_of_mini_double_shot:name=Call of Mini Double Shot,repo=Call-Of-Mini-Double-Shot-Ultimate,font=037-CAI978
+call_of_mini_brawlers:name=Call of Mini Brawlers,repo=Call-Of-Mini-Brawlers-Source,font=Lithos Pro Black
+call_of_mini_zombies_2:name=Call of Mini Zombies 2,repo=COMZ2-Offline,font=Watford-Regular
+call_of_mini_dino_hunter:name=Call of Mini Dino Hunter,repo=COM-Dino-Hunter,font=D3STONISM
 mini_glider:name=MiniGlider,repo=MiniGlider,font=Dreamland Std Regular
 mini_jailbreaker:name=MiniJailbreaker,repo=MiniJailbreaker,font=Dreamland Std Regular
 warcom_genesis:name=Warcom Genesis,repo=Warcom-Genesis-Source,font=CopperplateBold
-tiny_legends_crazy_knight:name=Tiny Legends\nCrazy Knight,repo=Tiny-Legends-Crazy-Knight,font=Bazinga-Regular
-tiny_legends_heroes:name=Tiny Legends\nHeroes,repo=Tiny-Legends-Heroes,font=acmeexplosive
+tiny_legends_crazy_knight:name=Tiny Legends Crazy Knight,repo=Tiny-Legends-Crazy-Knight,font=Bazinga-Regular
+tiny_legends_heroes:name=Tiny Legends Heroes,repo=Tiny-Legends-Heroes,font=acmeexplosive
 arms_craft:name=Arms Craft,repo=Arms-Craft,font=PressStart2P
 pixel_gunner:name=Pixel Gunner,repo=Pixel-Gunner,font=Pixel2_Font
