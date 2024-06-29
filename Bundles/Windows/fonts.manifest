@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 598142900
+CRC: 146890883
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d242a248abff875ffb834e216ea26572
+    Hash: 4e1d06a9edfed7a6ab63c18023320a6c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d242a248abff875ffb834e216ea26572
+    Hash: 4e1d06a9edfed7a6ab63c18023320a6c
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -22,5 +22,14 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Bundles/Fonts/acmeexplosive.ttf
+- Assets/Bundles/Fonts/PressStart2P.ttf
+- Assets/Bundles/Fonts/037-CAI978.TTF
+- Assets/Bundles/Fonts/Lithos Pro Black.ttf
+- Assets/Bundles/Fonts/Bazinga-Regular.otf
+- Assets/Bundles/Fonts/Pixel2_Font.ttf
+- Assets/Bundles/Fonts/CopperplateBold.ttf
 - Assets/Bundles/Fonts/D3STONISM.TTF
+- Assets/Bundles/Fonts/Watford-Regular.ttf
+- Assets/Bundles/Fonts/Dreamland Std Regular.otf
 Dependencies: []
