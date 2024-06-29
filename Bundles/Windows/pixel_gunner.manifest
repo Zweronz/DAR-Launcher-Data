@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4223709736
+CRC: 4097343605
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: 2dd2bfc03eadf62746fbc79ff9bf3b35
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: 2dd2bfc03eadf62746fbc79ff9bf3b35
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,7 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/COM Dino Hunter/Background.png
-- Assets/Bundles/COM Dino Hunter/Icon.jpg
-- Assets/Bundles/COM Dino Hunter/BGM.mp3
+- Assets/Bundles/Pixel Gunner/Background.png
+- Assets/Bundles/Pixel Gunner/Icon.png
+- Assets/Bundles/Pixel Gunner/BGM.ogg
 Dependencies: []

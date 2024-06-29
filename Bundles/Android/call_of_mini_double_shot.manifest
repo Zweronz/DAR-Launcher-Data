@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4223709736
+CRC: 2921159986
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: cc01cd61ad4a809a76c8b647f5213d3c
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: cc01cd61ad4a809a76c8b647f5213d3c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,7 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/COM Dino Hunter/Background.png
-- Assets/Bundles/COM Dino Hunter/Icon.jpg
-- Assets/Bundles/COM Dino Hunter/BGM.mp3
+- Assets/Bundles/COM Double Shot/Icon.png
+- Assets/Bundles/COM Double Shot/BGM.wav
+- Assets/Bundles/COM Double Shot/Background.png
 Dependencies: []

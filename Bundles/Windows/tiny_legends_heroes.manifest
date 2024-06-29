@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4223709736
+CRC: 2202999949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: 8f625f0d24a10be821c0559edec42fd8
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 990976e49884a5022cd0bbacf3ddc146
+    Hash: 8f625f0d24a10be821c0559edec42fd8
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,7 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/COM Dino Hunter/Background.png
-- Assets/Bundles/COM Dino Hunter/Icon.jpg
-- Assets/Bundles/COM Dino Hunter/BGM.mp3
+- Assets/Bundles/Tiny Legends Heroes/BGM.mp3
+- Assets/Bundles/Tiny Legends Heroes/Background.png
+- Assets/Bundles/Tiny Legends Heroes/Icon.png
 Dependencies: []
