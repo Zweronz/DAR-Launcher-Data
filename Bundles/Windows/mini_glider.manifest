@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2945870943
+CRC: 3562381662
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5a124b55c45ab958b8293297e58aedaf
+    Hash: 9ab6972cea179a6dc14ca0b489ac608e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5a124b55c45ab958b8293297e58aedaf
+    Hash: 9ab6972cea179a6dc14ca0b489ac608e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -19,6 +19,6 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/MiniGlider/Background.png
-- Assets/Bundles/MiniGlider/iTunesArtwork.png
-- Assets/Bundles/MiniGlider/BGM_gamestart.mp3
+- Assets/Bundles/MiniGlider/Icon.png
+- Assets/Bundles/MiniGlider/BGM.mp3
 Dependencies: []
